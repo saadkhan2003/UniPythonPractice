@@ -7,6 +7,9 @@
 # Also track .gitignore itself
 !.gitignore
 
+# Track README file
+!README.md
+
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
