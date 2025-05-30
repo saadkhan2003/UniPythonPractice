@@ -1,0 +1,18 @@
+# Ignore all files
+*
+
+# But track .ipynb files
+!*.ipynb
+
+# Also track .gitignore itself
+!.gitignore
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore conda environment files
+.conda/
